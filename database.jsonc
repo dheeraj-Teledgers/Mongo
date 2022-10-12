@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": { "FirstName": "John", "LastName": "Doe" },
+      "age": "30",
+      "rating": "4",
+      "hobbies": ["dancing", "cooking", "surfing"],
+      "address": {
+        "area": {
+          "code": "456454",
+          "locality": "Indiana Polis"
+        },
+        "country": "US"
+      }
+    },
+    {
+      "name": { "FirstName": "Jane", "LastName": "Doe" },
+      "age": "32",
+      "rating": "5",
+      "hobbies": ["Netflix", "cooking", "Gardening"]
+    },
+    {
+      "name": { "FirstName": "James", "LastName": "Doe" },
+      "age": "25",
+      "rating": "5",
+      "hobbies": ["Hiking", "cooking", "Gymming"]
+    }
+  ]
+}
